@@ -1,6 +1,4 @@
 
-=
-code/Hello.js,4/7/475f0b5e1a672a53e11042c2f64e5f81d9651a0c
 ^
 .code/singlyLinkedList/Singly_Linked_List_01.js,d/e/ded9b331ff8208854330bd5f1f0c379232324c9d
 ^
@@ -19,3 +17,25 @@
 .code/singlyLinkedList/Singly_Linked_List_08.js,f/9/f91b693cade55a00a43468f6f466e5eccd82f7b6
 ^
 .code/singlyLinkedList/Singly_Linked_List_09.js,9/e/9e662289bd60e37c1dac2b3b8dd01f95d6b1a58a
+^
+.code/dobuleLinkedList/Double_Linked_List_01.js,2/c/2cb908ae283009769c4e1339071ca819c3d09619
+^
+.code/dobuleLinkedList/Double_Linked_List_02.js,b/3/b3a17efccb5700333f882bcff19548ed136dfa65
+^
+.code/dobuleLinkedList/Double_Linked_List_03.js,6/2/62d667f39f4263da62953abb43a822c39c2be6fb
+^
+.code/dobuleLinkedList/Doubly_Linked_List_02.js,5/b/5bc28f9e3ef4bc2fcbe9c6e09b52ddf5dc114e66
+^
+.code/dobuleLinkedList/Doubly_Linked_List_03.js,9/1/91c220a45954ee80550b792162e5136408247e9d
+^
+.code/dobuleLinkedList/Doubly_Linked_List_04.js,f/1/f1857ecf6c46a34fa0d525315f9b3bbb5daa70b9
+^
+.code/dobuleLinkedList/Doubly_Linked_List_05.js,7/8/78f5fa35a5e9051d902fa19b22e4efbc71dc1d64
+^
+.code/dobuleLinkedList/Doubly_Linked_List_06.js,e/9/e916141787895efadbd06bb821fd5ee53268ac20
+^
+.code/dobuleLinkedList/Doubly_Linked_List_07.js,9/d/9d346f297a72aacff392d7bdac8c5322b232a642
+^
+.code/dobuleLinkedList/Doubly_Linked_List_08.js,b/e/be66816f345003537d9be031700665e7afb6067c
+^
+.code/dobuleLinkedList/Doubly_Linked_List_09.js,4/c/4c046279481d4c1fa0b2f73769272480feb5bc69
