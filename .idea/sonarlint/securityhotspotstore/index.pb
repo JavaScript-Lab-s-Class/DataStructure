@@ -18,12 +18,6 @@
 ^
 .code/singlyLinkedList/Singly_Linked_List_09.js,9/e/9e662289bd60e37c1dac2b3b8dd01f95d6b1a58a
 ^
-.code/dobuleLinkedList/Double_Linked_List_01.js,2/c/2cb908ae283009769c4e1339071ca819c3d09619
-^
-.code/dobuleLinkedList/Double_Linked_List_02.js,b/3/b3a17efccb5700333f882bcff19548ed136dfa65
-^
-.code/dobuleLinkedList/Double_Linked_List_03.js,6/2/62d667f39f4263da62953abb43a822c39c2be6fb
-^
 .code/dobuleLinkedList/Doubly_Linked_List_02.js,5/b/5bc28f9e3ef4bc2fcbe9c6e09b52ddf5dc114e66
 ^
 .code/dobuleLinkedList/Doubly_Linked_List_03.js,9/1/91c220a45954ee80550b792162e5136408247e9d
@@ -39,3 +33,11 @@
 .code/dobuleLinkedList/Doubly_Linked_List_08.js,b/e/be66816f345003537d9be031700665e7afb6067c
 ^
 .code/dobuleLinkedList/Doubly_Linked_List_09.js,4/c/4c046279481d4c1fa0b2f73769272480feb5bc69
+^
+.code/dobuleLinkedList/Doubly_Linked_List_01.js,e/e/eefaa10aae11f184c0d36ea11f5f80f0bf76c5b4
+O
+code/ArrayAndObjects/Objects.js,6/9/699a0d31ab348364badc8f51db6049fdeca303c7
+N
+code/ArrayAndObjects/Arrays.js,8/a/8a822272978b6b1307894f2f14eb13d14e4e2c45
+A
+code/solve/Add.js,c/d/cdfe1748b45116241b3a7b7bd804a6fed334e37e
